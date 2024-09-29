@@ -1,3 +1,4 @@
+## A login page that works with local storage in angular.
 # Requirements :
 ng new ANGULAR PROJECTS <br>
 ng g c Pages/login-signup<br>
